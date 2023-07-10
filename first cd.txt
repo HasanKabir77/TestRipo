@@ -1,2 +1,14 @@
 Hello World
 Hi, I'm Muhammad Hasan Kabir 
+
+echo "# TestRipo" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/HasanKabir77/TestRipo.git
+git push -u origin main
+
+git remote add origin https://github.com/HasanKabir77/TestRipo.git
+git branch -M main
+git push -u origin main
